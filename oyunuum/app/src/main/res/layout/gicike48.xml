@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<TableLayout
+    android:id="@+id/TableLayout48"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+          <LinearLayout
+ 			    android:layout_width="wrap_content"
+ 			    android:layout_height="wrap_content"
+ 			    android:background="#000" >
+
+ 			    <TextView
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="wrap_content"
+ 			        android:layout_weight="1"
+ 			        android:gravity="end"
+ 			        android:text="Score : "
+ 			        android:textAppearance="?android:attr/textAppearanceMedium"
+ 			        android:textColor="#D3D3D3"
+ 			        android:textSize="25sp"
+ 			        android:textStyle="bold" />
+
+ 			    <TextView
+ 			        android:id="@+id/score48"
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="wrap_content"
+ 			        android:layout_weight="1"
+ 			        android:gravity="start"
+ 			        android:textAppearance="?android:attr/textAppearanceMedium"
+ 			        android:textColor="#D3D3D3"
+ 			        android:textSize="25sp"
+ 			        android:textStyle="bold" />
+
+ 			    <LinearLayout
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="match_parent"
+ 			        android:layout_weight="1" >
+
+ 			        <TextView
+ 			            android:id="@+id/bir"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/iki"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/uc"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/dort"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/bes"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/alti"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/yedi"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/sekiz"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/dokuz"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/on"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+ 			    </LinearLayout>
+ 			</LinearLayout>
+
+            <TableRow
+                android:id="@+id/tableRowB3x1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/B3x1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                  <Button
+                    android:id="@+id/B3x6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRowB3x2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+               
+
+                <Button
+                    android:id="@+id/B3x7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x8"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x9"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                  <Button
+                      android:id="@+id/B3x10"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:layout_weight="1"
+                      android:background="@drawable/besyuzmavikatman3" />
+
+                   <Button
+                    android:id="@+id/B3x11"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                    <Button
+                    android:id="@+id/B3x12"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowB3x3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+               
+                 <Button
+                    android:id="@+id/B3x13"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x14"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x15"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 
+                  <Button
+                    android:id="@+id/B3x16"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x17"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                <Button
+                    android:id="@+id/B3x18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowB3x4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+              
+                 <Button
+                    android:id="@+id/B3x19"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x20"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                   <Button
+                    android:id="@+id/B3x21"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x22"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x23"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x24"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+            
+             <TableRow
+                android:id="@+id/tableRowB3x5"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/B3x25"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x26"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x27"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x28"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x29"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                  <Button
+                    android:id="@+id/B3x30"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+<TableRow
+                android:id="@+id/tableRowB3x6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/B3x31"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x32"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x33"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x34"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x35"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                  <Button
+                    android:id="@+id/B3x36"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowB3x7"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/B3x37"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+
+                <Button
+                    android:id="@+id/B3x38"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x39"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x40"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                 <Button
+                    android:id="@+id/B3x41"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+                  <Button
+                    android:id="@+id/B3x42"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzmavikatman3" />
+            </TableRow>
+              <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000" >
+
+                 <Button
+                     android:id="@+id/restart48"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:text="RESTART"
+                     android:textColor="#D3D3D3"
+                     android:textSize="25sp"
+                     android:textStyle="bold" />
+
+                 <TextView
+                     android:id="@+id/test48"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="0"
+                     android:textAppearance="?android:attr/textAppearanceLarge"
+                     android:textColor="#fff"
+                     android:textSize="35sp"
+                     android:textStyle="bold" />
+
+                 <Button
+                     android:id="@+id/back48"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:text="BACK"
+                     android:textColor="#D3D3D3"
+                     android:textSize="25sp"
+                     android:textStyle="bold" />
+
+             </LinearLayout>
+
+        </TableLayout>
+
+</TableLayout>
+</FrameLayout>

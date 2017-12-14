@@ -1,0 +1,7 @@
+#Wed Dec 06 18:32:57 EET 2017
+base.0=C\:\\oyunuum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67effdf5d1c2549c0a65bc86c15a3ef9bd9c132a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\oyunuum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c244e8389db1d45e52304b8d5ec4fd681e205e0\\classes.dex
+base.1=C\:\\oyunuum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0c244e8389db1d45e52304b8d5ec4fd681e205e0
+file.0=C\:\\oyunuum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_67effdf5d1c2549c0a65bc86c15a3ef9bd9c132a\\classes.dex

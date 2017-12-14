@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_flip_left_out.xml",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\anim\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_flip_right_in.xml",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\anim\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_flip_left_in.xml",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\anim\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\anim\\card_flip_right_out.xml",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\anim\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gec_gelme.xml",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\anim\\gec_gelme.xml"
+    }
+]

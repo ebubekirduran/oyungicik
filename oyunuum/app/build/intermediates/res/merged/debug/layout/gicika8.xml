@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<TableLayout
+    android:id="@+id/TableLayout8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+          <LinearLayout
+ 			    android:layout_width="wrap_content"
+ 			    android:layout_height="wrap_content"
+ 			    android:background="#000" >
+
+ 			    <TextView
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="wrap_content"
+ 			        android:layout_weight="1"
+ 			        android:gravity="end"
+ 			        android:text="Score : "
+ 			        android:textAppearance="?android:attr/textAppearanceMedium"
+ 			        android:textColor="#D3D3D3"
+ 			        android:textSize="25sp"
+ 			        android:textStyle="bold" />
+
+ 			    <TextView
+ 			        android:id="@+id/score8"
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="wrap_content"
+ 			        android:layout_weight="1"
+ 			        android:gravity="start"
+ 			        android:textAppearance="?android:attr/textAppearanceMedium"
+ 			        android:textColor="#D3D3D3"
+ 			        android:textSize="25sp"
+ 			        android:textStyle="bold" />
+
+ 			    <LinearLayout
+ 			        android:layout_width="0dp"
+ 			        android:layout_height="match_parent"
+ 			        android:layout_weight="1" >
+
+ 			        <TextView
+ 			            android:id="@+id/bir"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/iki"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/uc"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/dort"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/bes"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/alti"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/yedi"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/sekiz"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/dokuz"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+
+ 			        <TextView
+ 			            android:id="@+id/on"
+ 			            android:layout_width="0dp"
+ 			            android:layout_height="wrap_content"
+ 			            android:layout_weight="1"
+ 			            android:background="@drawable/besyuzyesil" />
+ 			    </LinearLayout>
+ 			</LinearLayout>
+
+            <TableRow
+                android:id="@+id/tableRowH1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/H1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+
+                <Button
+                    android:id="@+id/H2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+                 <Button
+                    android:id="@+id/H3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzgri" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRowH2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/H4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+
+                <Button
+                    android:id="@+id/H5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzgri" />
+                 <Button
+                    android:id="@+id/H6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowH3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/H7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzgri" />
+
+                <Button
+                    android:id="@+id/H8"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+                 <Button
+                    android:id="@+id/H9"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuz" />
+            </TableRow>
+
+        <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000" >
+
+                 <Button
+                     android:id="@+id/restart8"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:text="RESTART"
+                     android:textColor="#D3D3D3"
+                     android:textSize="25sp"
+                     android:textStyle="bold" />
+
+                 <TextView
+                     android:id="@+id/test8"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="0"
+                     android:textAppearance="?android:attr/textAppearanceLarge"
+                     android:textColor="#fff"
+                     android:textSize="35sp"
+                     android:textStyle="bold" />
+
+                 <Button
+                     android:id="@+id/back8"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:text="BACK"
+                     android:textColor="#D3D3D3"
+                     android:textSize="25sp"
+                     android:textStyle="bold" />
+
+             </LinearLayout>
+
+        </TableLayout>
+
+</TableLayout>
+
+
+  </FrameLayout>
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_flip" type="id"/>
+    <item name="action_next" type="id"/>
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+    <string name="app_name">GiciK</string>
+    <string name="gicik1">GiciK LVL-1</string>
+    <string name="gicik10">GiciK LVL-10</string>
+    <string name="gicik11">GiciK LVL-11</string>
+    <string name="gicik12">GiciK LVL-12</string>
+    <string name="gicik13">GiciK LVL-13</string>
+    <string name="gicik14">GiciK LVL-14</string>
+    <string name="gicik15">GiciK LVL-15</string>
+    <string name="gicik16">GiciK LVL-16</string>
+    <string name="gicik17">GiciK LVL-17</string>
+    <string name="gicik18">GiciK LVL-18</string>
+    <string name="gicik19">GiciK LVL-19</string>
+    <string name="gicik2">GiciK LVL-2</string>
+    <string name="gicik20">GiciK LVL-20</string>
+    <string name="gicik21">GiciK LVL-21</string>
+    <string name="gicik22">GiciK LVL-22</string>
+    <string name="gicik23">GiciK LVL-23</string>
+    <string name="gicik24">GiciK LVL-24</string>
+    <string name="gicik25">GiciK LVL-25</string>
+    <string name="gicik26">GiciK LVL-26</string>
+    <string name="gicik27">GiciK LVL-27</string>
+    <string name="gicik28">GiciK LVL-28</string>
+    <string name="gicik29">GiciK LVL-29</string>
+    <string name="gicik3">GiciK LVL-3</string>
+    <string name="gicik30">GiciK LVL-30</string>
+    <string name="gicik31">GiciK LVL-31</string>
+    <string name="gicik32">GiciK LVL-32</string>
+    <string name="gicik33">GiciK LVL-33</string>
+    <string name="gicik34">GiciK LVL-34</string>
+    <string name="gicik35">GiciK LVL-35</string>
+    <string name="gicik36">GiciK LVL-36</string>
+    <string name="gicik37">GiciK LVL-37</string>
+    <string name="gicik38">GiciK LVL-38</string>
+    <string name="gicik39">GiciK LVL-39</string>
+    <string name="gicik4">GiciK LVL-4</string>
+    <string name="gicik40">GiciK LVL-40</string>
+    <string name="gicik41">GiciK LVL-41</string>
+    <string name="gicik42">GiciK LVL-42</string>
+    <string name="gicik43">GiciK LVL-43</string>
+    <string name="gicik44">GiciK LVL-44</string>
+    <string name="gicik45">GiciK LVL-45</string>
+    <string name="gicik46">GiciK LVL-46</string>
+    <string name="gicik47">GiciK LVL-47</string>
+    <string name="gicik48">GiciK LVL-48</string>
+    <string name="gicik49">GiciK LVL-49</string>
+    <string name="gicik5">GiciK LVL-5</string>
+    <string name="gicik50">GiciK LVL-50</string>
+    <string name="gicik6">GiciK LVL-6</string>
+    <string name="gicik7">GiciK LVL-7</string>
+    <string name="gicik8">GiciK LVL-8</string>
+    <string name="gicik9">GiciK LVL-9</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_gicik">GiciK</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

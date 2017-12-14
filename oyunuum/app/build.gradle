@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25.0.2"
+    compileOptions.encoding = 'ISO-8859-1'
+    defaultConfig {
+        applicationId "com.gicik"
+        minSdkVersion 13
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:22.2.1'
+    compile project(':ksoap2-android-assembly-2.4-jar-with-dependencies')
+    compile project(':ksoap2-android-assembly-2.4-jar-with-dependencies')
+}

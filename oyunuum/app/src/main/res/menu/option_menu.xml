@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="Reset" 
+    android:showAsAction="ifRoom|withText" 
+    android:icon="@drawable/ic_reset" 
+    android:id="@+id/reset"/>
+
+<item android:title="Rate App" 
+    android:showAsAction="ifRoom|withText" 
+    android:icon="@drawable/ic_degerlendir" 
+    android:id="@+id/degerlendir"/>
+
+</menu>

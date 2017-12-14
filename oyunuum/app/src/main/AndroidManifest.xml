@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gicik"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Gicik"
+            android:label="@string/title_activity_gicik" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_gicik" android:name=".adinsoyadin"></activity>
+        <activity android:label="@string/title_activity_gicik" android:name=".anamenu"></activity>
+         <activity android:label="@string/title_activity_gicik" android:name=".Ana"></activity>
+         <activity android:label="@string/title_activity_gicik" android:name=".Database"></activity>
+        <activity android:label="@string/gicik1" android:name=".Gicika1"></activity>
+        <activity android:label="@string/gicik2" android:name=".Gicika2"></activity>
+        <activity android:label="@string/gicik3" android:name=".Gicika3"></activity>
+        <activity android:label="@string/gicik4" android:name=".Gicika4"></activity>
+        <activity android:label="@string/gicik5" android:name=".Gicika5"></activity>
+        <activity android:label="@string/gicik6" android:name=".Gicika6"></activity>
+        <activity android:label="@string/gicik7" android:name=".Gicika7"></activity>
+        <activity android:label="@string/gicik8" android:name=".Gicika8"></activity>
+        <activity android:label="@string/gicik9" android:name=".Gicika9"></activity>
+        <activity android:label="@string/gicik10" android:name=".Gicikb10"></activity>
+        <activity android:label="@string/gicik11" android:name=".Gicikb11"></activity>
+        <activity android:label="@string/gicik12" android:name=".Gicikb12"></activity>
+        <activity android:label="@string/gicik13" android:name=".Gicikb13"></activity>
+        <activity android:label="@string/gicik14" android:name=".Gicikb14"></activity>
+        <activity android:label="@string/gicik15" android:name=".Gicikb15"></activity>
+        <activity android:label="@string/gicik16" android:name=".Gicikb16"></activity>
+        <activity android:label="@string/gicik17" android:name=".Gicikb17"></activity>
+        <activity android:label="@string/gicik18" android:name=".Gicikb18"></activity>
+        <activity android:label="@string/gicik19" android:name=".Gicikb19"></activity>
+        <activity android:label="@string/gicik20" android:name=".Gicikc20"></activity>
+        <activity android:label="@string/gicik21" android:name=".Gicikc21"></activity>
+        <activity android:label="@string/gicik22" android:name=".Gicikc22"></activity>
+        <activity android:label="@string/gicik23" android:name=".Gicikc23"></activity>
+        <activity android:label="@string/gicik24" android:name=".Gicikc24"></activity>
+        <activity android:label="@string/gicik25" android:name=".Gicikc25"></activity>
+        <activity android:label="@string/gicik26" android:name=".Gicikc26"></activity>
+        <activity android:label="@string/gicik27" android:name=".Gicikc27"></activity>
+        <activity android:label="@string/gicik28" android:name=".Gicikc28"></activity>
+        <activity android:label="@string/gicik29" android:name=".Gicikc29"></activity>
+        <activity android:label="@string/gicik30" android:name=".Gicikd30"></activity>
+        <activity android:label="@string/gicik31" android:name=".Gicikd31"></activity>
+        <activity android:label="@string/gicik32" android:name=".Gicikd32"></activity>
+        <activity android:label="@string/gicik33" android:name=".Gicikd33"></activity>
+        <activity android:label="@string/gicik34" android:name=".Gicikd34"></activity>
+        <activity android:label="@string/gicik35" android:name=".Gicikd35"></activity>
+        <activity android:label="@string/gicik36" android:name=".Gicikd36"></activity>
+        <activity android:label="@string/gicik37" android:name=".Gicikd37"></activity>
+        <activity android:label="@string/gicik38" android:name=".Gicikd38"></activity>
+        <activity android:label="@string/gicik39" android:name=".Gicikd39"></activity>
+        <activity android:label="@string/gicik40" android:name=".Gicike40"></activity>
+        <activity android:label="@string/gicik41" android:name=".Gicike41"></activity>
+        <activity android:label="@string/gicik42" android:name=".Gicike42"></activity>
+        <activity android:label="@string/gicik43" android:name=".Gicike43"></activity>
+        <activity android:label="@string/gicik44" android:name=".Gicike44"></activity>
+        <activity android:label="@string/gicik45" android:name=".Gicike45"></activity>
+        <activity android:label="@string/gicik46" android:name=".Gicike46"></activity>
+        <activity android:label="@string/gicik47" android:name=".Gicike47"></activity>
+        <activity android:label="@string/gicik48" android:name=".Gicike48"></activity>
+        <activity android:label="@string/gicik49" android:name=".Gicike49"></activity>
+        <activity android:label="@string/gicik50" android:name=".Gicikf50"></activity>
+        </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_degerlendir.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_degerlendir.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_icon.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_info.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_reset.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_back.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    }
+]

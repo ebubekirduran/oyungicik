@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\oyunuum\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\oyunuum\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_dceccb243533d8ceff1d5595b9a5a6b7eeff48d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\oyunuum\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\oyunuum\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_4bafdd42185499097fe0b47b652bdcc89801da85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\oyunuum\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_1d680555450a2fd69c727d48d4877271634c4ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\oyunuum\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30f4d84407d4bfd3fa696e127aa155769f402485">
+        <dex dex="C:\oyunuum\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0c244e8389db1d45e52304b8d5ec4fd681e205e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\oyunuum\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5ed05219bdf66dd7e8e9616b2c4e6b0977bdc84">
+        <dex dex="C:\oyunuum\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_67effdf5d1c2549c0a65bc86c15a3ef9bd9c132a\classes.dex" />
+    </item>
+
+</items>

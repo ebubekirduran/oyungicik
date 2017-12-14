@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="6551175901078"
+    token="-8399166622350316869"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="53828" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="74799" />
+    <task
+        name="verifier"
+        duration="57615" />
+
+    <artifact
+        location="C:\oyunuum\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="6551175901078"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\oyunuum\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

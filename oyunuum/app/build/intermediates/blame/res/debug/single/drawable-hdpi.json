@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_reset.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_info.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_icon.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_back.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\oyunuum\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_degerlendir.png",
+        "source": "C:\\oyunuum\\app\\src\\main\\res\\drawable-hdpi\\ic_degerlendir.png"
+    }
+]

@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+    android:id="@+id/TableLayout25"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TableRow
+                android:id="@+id/tableRowAna1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzsari"
+                    android:text="1"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/Bolum2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir"
+                    android:enabled="false"
+                    android:text="2"
+                    android:textColor="#fff" />
+
+                 <Button
+                     android:id="@+id/Bolum3"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+                     android:text="3"
+                     android:textColor="#fff" />
+
+                 <Button
+                     android:id="@+id/Bolum4"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+                     android:text="4"
+                     android:textColor="#fff" />
+
+                 <Button
+                     android:id="@+id/Bolum5"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+                     android:text="5"
+                     android:textColor="#fff" />
+
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/tableRowAna2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir"
+                    android:enabled="false"
+                    android:text="6"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/Bolum7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir"
+                    android:enabled="false"
+                    android:text="7"
+                    android:textColor="#fff" />
+
+                 <Button
+                     android:id="@+id/Bolum8"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+                     android:text="8"
+                     android:textColor="#fff" />
+
+                 <Button
+                     android:id="@+id/Bolum9"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+                     android:text="9"
+                     android:textColor="#fff" />
+
+                  <Button
+                      android:id="@+id/Bolum10"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:layout_weight="1"
+                      android:background="@drawable/besyuzkir"
+                      android:enabled="false"
+                      android:text="10"
+                      android:textColor="#fff" />
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum11"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir"
+                    android:enabled="false"
+                    android:text="11"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/Bolum12"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="12"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum13"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="13"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum14"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="14"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum15"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="15"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum16"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="16"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum17"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="17"
+                    android:textColor="#fff"/>
+                 <Button
+                    android:id="@+id/Bolum18"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="18"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum19"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="19"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum20"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="20"
+                    android:textColor="#fff"/>
+            </TableRow>
+            
+             <TableRow
+                android:id="@+id/tableRowAna5"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum21"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="21"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum22"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="22"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum23"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="23"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum24"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="24"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum25"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="25"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum26"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="26"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum27"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="27"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum28"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="28"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum29"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="29"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum30"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="30"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna7"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum31"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="31"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum32"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="32"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum33"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir"
+                     android:enabled="false"
+					 android:text="33"
+                     android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum34"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="34"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum35"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="35"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna8"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum36"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="36"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum37"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="37"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum38"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="38"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum39"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="39"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum40"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="40"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna9"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum41"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="41"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum42"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="42"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum43"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="43"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum44"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="44"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum45"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="45"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRowAna10"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <Button
+                    android:id="@+id/Bolum46"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="46"
+                    android:textColor="#fff"/>
+
+                <Button
+                    android:id="@+id/Bolum47"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="47"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum48"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="48"
+                    android:textColor="#fff"/>
+
+                 <Button
+                    android:id="@+id/Bolum49"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/besyuzkir" 
+                    android:enabled="false"
+                    android:text="49"
+                    android:textColor="#fff"/>
+
+                 <Button
+                     android:id="@+id/Bolum50"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:background="@drawable/besyuzkir" 
+                     android:enabled="false"
+                     android:text="50"
+                    android:textColor="#fff"/>
+
+            </TableRow>
+
+</TableLayout>
+
+</TableLayout>
+
+</LinearLayout>
